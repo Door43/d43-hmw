@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hmw:home|Door43 (hmw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hmw|d43-hmw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hmw/archive/master.zip|d43-hmw.zip]]
+
+**Recent Changes**
+{{changes>ns = hmw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hmw|Ethnologue data]]
+
